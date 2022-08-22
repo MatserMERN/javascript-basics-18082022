@@ -150,7 +150,7 @@ First Class Functions
 -------------------
 1. can be Invoked inside another function
 2. assign to a variable
-3. pass as a parameter to another variable
+3. pass as a parameter to another function
 
 Advantages with IIFs 
 --------------------
